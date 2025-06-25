@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asiglectute1", "asiglectute1\asiglectute1.csproj", "{53BDE632-1D39-49C1-9373-8BF15E9CFBD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53BDE632-1D39-49C1-9373-8BF15E9CFBD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BDE632-1D39-49C1-9373-8BF15E9CFBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BDE632-1D39-49C1-9373-8BF15E9CFBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BDE632-1D39-49C1-9373-8BF15E9CFBD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D181163D-0A6D-48C0-BCC2-7177C63FD253}
+	EndGlobalSection
+EndGlobal
